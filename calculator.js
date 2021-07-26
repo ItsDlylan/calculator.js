@@ -213,10 +213,10 @@ let calculator = function () {
 				);
 
 				setTimeout(function () {
-					console.log('.... rebooting ...');
+					console.log('.... rebooting ....');
 				}, 500);
 				setTimeout(function () {
-					console.log('.... rebooting ...');
+					console.log('.... rebooting ....');
 				}, 1000);
 				setTimeout(function () {
 					console.log('Insert Brand Name Here... Rebooted.');
@@ -439,10 +439,10 @@ let begin = function () {
 				);
 
 				setTimeout(function () {
-					console.log('.... rebooting ...');
+					console.log('.... rebooting ....');
 				}, 500);
 				setTimeout(function () {
-					console.log('.... rebooting ...');
+					console.log('.... rebooting ....');
 				}, 1000);
 				setTimeout(function () {
 					console.log('Insert Brand Name Here... Rebooted.');
